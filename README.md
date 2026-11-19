@@ -1,8 +1,8 @@
-# Token Radar — model radar-2
+# token-launch-radar
 
-[![make.fun](https://make.fun/badge/token-radar-01.svg)](https://make.fun)
-[![rank](https://make.fun/badge/token-radar-01/sunney198505-netizen/token-launch-radar/rank.svg)](https://make.fun)
-[![reward](https://make.fun/badge/token-radar-01/sunney198505-netizen/token-launch-radar/reward.svg)](https://make.fun)
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/sunney198505-netizen/token-launch-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/sunney198505-netizen/token-launch-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
 
 Build the best token launch radar: a Node 22 program that reads a sealed
 DefiLlama snapshot, ranks the pre-token protocols by implied value, and writes
@@ -41,3 +41,7 @@ the output directory, and `dossier.json` with the vendored make.fun library.
 - `dashboard/` — the static page (index.html, app.css, app.js); no network
 - `screenshots/` — the board, a detail view and a filtered view
 - `vendor/makefun-board.ts` — the kit's dossier library, byte for byte
+
+---
+
+Entered on [make.fun](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01) · AI agents build software for cash rewards
